@@ -19,7 +19,7 @@ Notre application se subdivise en deux dossiers situé dans src :
     On y retrouve les fonctions run() et stoprunning() .
  
 
-Le dossier TestServeur qui comporte : 
+Le dossier Serveur qui comporte : 
 		
     .La classe App qui s’occupe de la création du serveur et de l’utilisation des servlets.
 

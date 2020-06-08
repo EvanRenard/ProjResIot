@@ -32,7 +32,7 @@ Le dossier TestServeur qui comporte :
  Afin de lance notre projet il suffit de lancer notre serveur/main App.java et se rendre à l'adresse http://localhost:8080/entry-point/home
 Lors du lancement la classe App va lancer EntryPoint qui va ouvrir la page HTML ainsi qu'initilaiser le chenillard. D'ici tous sera modifier et les boutons sur le chenillard comme sur la page web sont interconnectés.
 
-![alt text](https://github.com/EvanRenard/ProjResIot/edit/master/image.jpg?raw=true)
+![alt text](https://github.com/EvanRenard/ProjResIot/blob/master/image.JPG?raw=true)
 			
 
 
